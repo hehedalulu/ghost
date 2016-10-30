@@ -1,0 +1,5 @@
+pod 'JCAlertView'
+pod 'BmobSDK'
+pod 'SDWebImage'
+pod 'SDAutoLayout', '~> 2.1.1'
+pod 'Masonry'

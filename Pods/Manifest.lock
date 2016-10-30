@@ -1,0 +1,24 @@
+PODS:
+  - BmobSDK (1.7.2)
+  - JCAlertView (1.1.5)
+  - Masonry (1.0.2)
+  - SDAutoLayout (2.1.7)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+
+DEPENDENCIES:
+  - BmobSDK
+  - JCAlertView
+  - Masonry
+  - SDAutoLayout (~> 2.1.1)
+  - SDWebImage
+
+SPEC CHECKSUMS:
+  BmobSDK: e188cb31d6a8417ab668aee821da227d7512b865
+  JCAlertView: c65a7b298b8b497b3db783d82f719b88f4914869
+  Masonry: 7c429b56da9d4ee0bbb3ed77a5ea710d6a5df39e
+  SDAutoLayout: e9b36d04b8c0b504762a04d76fbbe5108944297a
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+
+COCOAPODS: 0.39.0
